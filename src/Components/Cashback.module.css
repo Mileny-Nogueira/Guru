@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.containercashback{
+    height: 300px;
+    width: 100%;
+    background-color: #008286;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.containercashback > h2{
+    font-size: 50px;
+    color: #FFF;
+}
+
+.containercashback > h1{
+    font-size: 80px;
+    color: #30EFC7;
+}

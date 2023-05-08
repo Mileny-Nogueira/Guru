@@ -1,0 +1,28 @@
+.containerfooter{
+    height: 300px;
+    background-color: #1e1e1e;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.containercolunas{
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    width: 60%;
+}
+
+.coluna h4{
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.coluna p{
+    font-size: 15px;
+    color: #fff;
+    text-align: start;
+}

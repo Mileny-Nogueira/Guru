@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.containerdigital{
+    height: 600px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contadigitalimagem{
+    width: 30%;
+}
+
+.contadigitaltext{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.contadigitaltext > h1{
+    font-size: 70px;
+    color: #1e1e1e;
+    text-align: start;
+    width: 80%;
+}
+
+.contadigitaltext > h2{
+    font-size: 20px;
+    color: #1e1e1e;
+    text-align: start;
+    margin: 0;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.contadigitaltext > p{
+    font-size: 20px;
+    color: #30EFC7;
+    text-align: start;
+    margin: 0;
+    width: 80%;
+    font-weight: bold;
+}
+
+.contadigitaltext > button{
+    padding: 25px 0;
+    width: 200px;
+    background: none;
+    border: 3px solid #30EFC7;
+    border-radius: 15px;
+    color: #30EFC7;
+    font-size: 20px;
+}
+
+

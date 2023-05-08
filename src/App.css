@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+*{
+  font-family: Alata;
+}
+
+.App {
+  text-align: center;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #FFF;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #008286;
+  border-radius: 20px;
+  border: 3px solid #008286;
+}
